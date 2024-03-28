@@ -1,0 +1,222 @@
+﻿Adresse;Campus;Zeitraum;Menge;Einheit;Art;Versorger;Gebäude;Baujahr;Sanierung;Nettogrundfläche
+Hauptstraße 207;Campus Altstadt;Jahr;334;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;1010;1742;;3551,99
+Hauptstraße 207-209;Campus Altstadt;Jahr;333;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;1010;1742;;3551,99
+Kalrstraße 2;Campus Altstadt;Jahr;326;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;1030;1744;;1082,81
+Bergheimer Straße 139-151;Campus Bergheim;Jahr;2;MWh;Strom;P. J. Landfried;1036;;;
+Karlstraße 16;Campus Altstadt;Jahr;142;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;1040;1964;;1390,16
+Hauptstraße 216;Campus Altstadt;Jahr;1;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;1050;;;157,64
+;;;;;;;;;;
+Theoretikum 70%;Campus INF;Jahr;11138;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;1054;;;
+Trafostation 1/5;Campus INF;Jahr;64;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;1055;;;
+Plankengasse 3;Campus Altstadt;Jahr;132;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;1060;;;1227,92
+Trafostation 2/0;Campus INF;Jahr;3131;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;1063;;;
+Trafostation 1/6;Campus INF;Jahr;4703;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;1067;;;
+;;;;;;;;;;
+Hauptstraße 231;Campus Altstadt;Jahr;3;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;1073;;;299,05
+Theoretikum I;Campus INF;Jahr;5966;MWh;Kälte;E.ON Energy Solutions GmbH;1079;;;
+Hauptstraße 242;Campus Altstadt;Jahr;14;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;1080;;;857,25
+Hauptstraße 242;Campus Altstadt;Jahr;114;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;1080;;;857,25
+Theoretikum II;Campus INF;Jahr;212;MWh;Kälte;E.ON Energy Solutions GmbH;1080;;;857,25
+Theoretikum 70%;Campus INF;Jahr;18302;MWh;Wärme;E.ON Energy Solutions GmbH;1134;;;
+Theoretikum;Campus INF;Jahr;1058;MWh;Wärme;E.ON Energy Solutions GmbH;1138;;;
+Theoretikum;Campus INF;Jahr;1;MWh;Gas;Universitätsklinikum Heidelberg;1161;;;
+Kisselgasse 1;Campus Altstadt;Jahr;134;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;1200;1974;;3783,77
+Marstallhof 1;Campus Altstadt;Jahr;1307;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2040;1965;;6842,52
+Marstallhof 4;Campus Altstadt;Jahr;930;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2040;1965;;6842,52
+;;;;;;;;;;
+Marstallstraße 6;Campus Altstadt;Jahr;205;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2070;1826;;2436,48
+Grabengasse 1;Campus Altstadt;Jahr;516;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2090;1718;;2385,02
+Grabengasse 14;Campus Altstadt;Jahr;2132;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2100;1978;;23528,62
+Grabengasse 14;Campus Altstadt;Jahr;1740;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2100;1978;;23528,62
+;;;;;;;;;;
+Plöck 107-109;Campus Altstadt;Jahr;935;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2130;1905;;11729,98
+Augustinergasse 7;Campus Altstadt;Jahr;461;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2140;1713;;1064,49
+Grabengasse 3;Campus Altstadt;Jahr;2171;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2170;1931;;12336,86
+Grabengasse 3-5;Campus Altstadt;Jahr;1618;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2171;1990;;2948,06
+Schulgasse 6;Campus Altstadt;Jahr;326;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2190;1716;;2057,48
+Schurmanstraße 2;Campus Bergheim;Jahr;10;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2190;1716;;2057,48
+Seminarstraße 2;Campus Altstadt;Jahr;589;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2200;1752;;6975,87
+Hauptstraße 120;Campus Altstadt;Jahr;2;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2205;;;955,81
+Hauptstraße 120;Campus Altstadt;Jahr;25;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2205;;;955,81
+Hauptstraße 120;Campus Altstadt;Jahr;101;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2205;;;955,81
+Hauptstraße 113;Campus Altstadt;Jahr;2;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2206;;;212
+Seminarstraße 3;Campus Altstadt;Jahr;474;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2210;1851;;4808,43
+Kettengasse 12;Campus Altstadt;Jahr;413;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2220;1716;;3791,94
+Seminarstraße 4;Campus Altstadt;Jahr;213;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;2230;1858;;2371,97
+Unter der Schanz 1;Campus Altstadt;Jahr;1;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2270;;;624,3
+Königstuhl;Campus Altstadt;Jahr;482;MWh;Öl;Haisch Mineralöle;2805;1914;;735,88
+;;;;;;;;;;
+;;;;;;;;;;
+Königstuhl 11;Campus Altstadt;Jahr;13;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2805;1914;;735,88
+Königstuhl 11;Campus Altstadt;Jahr;4;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2805;1914;;735,88
+Königstuhl 11;Campus Altstadt;Jahr;3;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2805;1914;;735,88
+Königstuhl 12;Campus Altstadt;Jahr;103;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;2805;1914;;735,88
+Brunnengasse 1;Campus Altstadt;Jahr;24;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3010;1850;;3359,24
+Hauptstraße 47;Campus Altstadt;Jahr;352;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3020;1865;;4511,76
+Hauptstraße 47;Campus Altstadt;Jahr;441;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3020;1865;;4511,76
+Hauptstraße 52;Campus Altstadt;Jahr;186;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3030;1709;;2100,52
+Akademiestraße 3;Campus Altstadt;Jahr;196;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3040;1875;;1760,64
+Akademiestraße 3 | Plöck 57;Campus Altstadt;Jahr;366;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3051;1892;;3134,37
+Akademeistraße 4;Campus Altstadt;Jahr;299;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3060;1986;;5226,86
+Akademiestraße 4;Campus Altstadt;Jahr;600;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;3060;1986;;5226,86
+Plöck 55;Campus Altstadt;Jahr;194;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3070;1856;;2379,03
+Friedrich-Ebert-Platz 2;Campus Altstadt;Jahr;293;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3080;1929;;2383,88
+Friedrich-Ebert-Anlage 6-10;Campus Altstadt;Jahr;695;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3091;1987;;1287,59
+Friedrich-Ebert-Anlage 8;Campus Altstadt;Jahr;228;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;3091;1987;;1287,59
+Friedrich-Ebert-Anlage 4;Campus Altstadt;Jahr;16;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;3094;;;648,75
+;;;;;;;;;;
+Plöck 79;Campus Altstadt;Jahr;191;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;3120;1846;;2115,97
+Friedrich-Ebert-Anage 62;Campus Altstadt;Jahr;13;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;3131;;;690,06
+Friedrich-Ebert-Anlage 62;Campus Altstadt;Jahr;2;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;3131;;;690,06
+;;;;;;;;;;
+Friedrich-Ebert-Anlage 62;Campus Altstadt;Jahr;72;MWh;Öl;Haisch Mineralöle;3131;;;690,06
+Voßstraße 2;Campus Bergheim;Jahr;36;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;4110;1878;;1069,94
+;;;;;;;;;;
+Voßstraße 2;Campus Bergheim;Jahr;6;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;4120;1876;;2025,06
+Voßstraße 2;Campus Bergheim;Jahr;4;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;4130;1876;;2047,7
+Voßstraße 2;Campus Bergheim;Jahr;12;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;4131;1970;;4736,3
+Bergheimer Straße 20;Campus Bergheim;Jahr;105;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;4140;1877;;4789,84
+Bergheimer Straße 20;Campus Bergheim;Jahr;390;MWh;Wärme;Universitätsklinikum Heidelberg;4140;1877;;4789,84
+Bergheimer Straße 58;Campus Bergheim;Jahr;607;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;4311;1929;;1766,76
+Bergheimer Straße 58;Campus Bergheim;Jahr;1472;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;4311;1929;;1766,76
+Voßstraße 2 (4370);Campus Bergheim;Jahr;75;MWh;Wärme;Universitätsklinikum Heidelberg;4370;1874;;434,5
+Voßstraße 2 (4400);Campus Bergheim;Jahr;246;MWh;Wärme;Universitätsklinikum Heidelberg;4400;1875;;2784,06
+Voßstraße 2 (4410);Campus Bergheim;Jahr;122;MWh;Wärme;Universitätsklinikum Heidelberg;4410;1872;;996,61
+Schillerstraße 4;Campus Bergheim;Jahr;3;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;5060;;;179,88
+Berliner Straße 41-49;Campus INF;Jahr;28;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;6205;2014;;17613,38
+Berliner Straße 41-49;Campus INF;Jahr;25;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;6205;2014;;17613,38
+Berliner Straße 41-49;Campus INF;Jahr;39;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;6205;2014;;17613,38
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+Im Neuenheimer Feld 205;Campus INF;Jahr;1538;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6205;2014;;17613,38
+Im Neuenheimer Feld 205;Campus INF;Jahr;935;MWh;Kälte;E.ON Energy Solutions GmbH;6205;2014;;17613,38
+Im Neuenheimer Feld 205;Campus INF;Jahr;356;MWh;Wärme;E.ON Energy Solutions GmbH;6205;2014;;17613,38
+Im Neuenheimer Feld 225;Campus INF;Jahr;410;MWh;Kälte;E.ON Energy Solutions GmbH;6225;2016;;6077,97
+Im Neuenheimer Feld 225;Campus INF;Jahr;752;MWh;Wärme;E.ON Energy Solutions GmbH;6225;2016;;6077,97
+Im Neuenheimer Feld 226;Campus INF;Jahr;852;MWh;Kälte;E.ON Energy Solutions GmbH;6226;2011;;9895,4
+Im Neuenheimer Feld 226;Campus INF;Jahr;736;MWh;Wärme;E.ON Energy Solutions GmbH;6226;2011;;9895,4
+Im Neuenheimer Feld 227;Campus INF;Jahr;5091;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6227;2002;;15285,02
+Im Neuenheimer Feld 227;Campus INF;Jahr;1634;MWh;Kälte;E.ON Energy Solutions GmbH;6227;2002;;15285,02
+Im Neuenheimer Feld 227;Campus INF;Jahr;1338;MWh;Wärme;E.ON Energy Solutions GmbH;6227;2002;;15285,02
+;Campus INF;Jan;43;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Feb;45;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Mrz;47;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Apr;48;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Mai;46;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Jun;41;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Jul;58;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Aug;34;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Sep;39;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Okt;48;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Nov;55;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Dez;47;m3;Trinkwasser;;6227;2002;;15285,02
+;Campus INF;Jan;128,7;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Feb;102,7;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Mrz;93,6;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Apr;200,2;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Mai;134,4;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Jun;141,2;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Jul;164,7;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Aug;74,2;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Sep;91;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Okt;144,8;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Nov;144,7;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Dez;105;m3;Brauchwasser;;6227;2002;;15285,02
+;Campus INF;Jan;116,704;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Feb;111,667;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Mrz;130,02;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Apr;123,641;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Mai;127,942;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Jun;189,625;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Jul;191,252;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Aug;188,826;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Sep;124,884;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Okt;124,07;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Nov;99,276;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Dez;106,214;MWh;Kälte;;6227;2002;;15285,02
+;Campus INF;Jan;265,392;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Feb;174,382;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Mrz;144,57;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Apr;93,757;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Mai;75,7;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Jun;17,918;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Jul;16,537;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Aug;15,154;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Sep;38,166;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Okt;89,531;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Nov;186,985;MWh;Wärme;;6227;2002;;15285,02
+;Campus INF;Dez;219,42;MWh;Wärme;;6227;2002;;15285,02
+Im Neuenheimer Feld 229;Campus INF;Jahr;1498;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6229;1998;;211,32
+Im Neuenheimer Feld 229;Campus INF;Jahr;1657;MWh;Kälte;E.ON Energy Solutions GmbH;6229;1998;;211,32
+Im Neuenheimer Feld 229;Campus INF;Jahr;1412;MWh;Wärme;E.ON Energy Solutions GmbH;6229;1998;;211,32
+Im Neuenheimer Feld 229;Campus INF;Jahr;11;MWh;Gas;Universitätsklinikum Heidelberg;6229;1998;;211,32
+Im Neuenheimer Feld 230;Campus INF;Jahr;346;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6230;1965;;4307,31
+Im Neuenheimer Feld 230;Campus INF;Jahr;844;MWh;Kälte;E.ON Energy Solutions GmbH;6230;1965;;4307,31
+Im Neuenheimer Feld 230;Campus INF;Jahr;1630;MWh;Wärme;E.ON Energy Solutions GmbH;6230;1965;;4307,31
+Im Neuenheimer Feld 234;Campus INF;Jahr;271;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6234;1966;;5351,07
+Im Neuenheimer Feld 234;Campus INF;Jahr;2149;MWh;Wärme;E.ON Energy Solutions GmbH;6234;1966;;5351,07
+Im Neuenheimer Feld 236;Campus INF;Jahr;683;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6236;1966;;5416,64
+Im Neuenheimer Feld 252;Campus INF;Jahr;593;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6252;1961;;5127,36
+Im Neuenheimer Feld 253;Campus INF;Jahr;691;MWh;Wärme;E.ON Energy Solutions GmbH;6252;1961;;5127,36
+Im Neuenheimer Feld 253/254;Campus INF;Jahr;447;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6252;1961;;5127,36
+Im Neuenheimer Feld 253/254;Campus INF;Jahr;244;MWh;Kälte;E.ON Energy Solutions GmbH;6252;1961;;5127,36
+Im Neuenheimer Feld 267;Campus INF;Jahr;2182;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6267;2007;;9171,83
+Im Neuenheimer Feld 267;Campus INF;Jahr;1189;MWh;Kälte;E.ON Energy Solutions GmbH;6267;2007;;9171,83
+Im Neuenheimer Feld 267;Campus INF;Jahr;828;MWh;Wärme;E.ON Energy Solutions GmbH;6267;2007;;9171,83
+Im Neuenheimer Feld 269;Campus INF;Jahr;202;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6269;1992;;1355,48
+Im Neuenheimer Feld 269;Campus INF;Jahr;172;MWh;Wärme;E.ON Energy Solutions GmbH;6269;1992;;1355,48
+Im Neuenheimer Feld 269;Campus INF;Jahr;10;MWh;Wärme;E.ON Energy Solutions GmbH;6269;1992;;1355,48
+Im Neuenheimer Feld 270;Campus INF;Jahr;3037;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6270;1954;;8750,1
+Im Neuenheimer Feld 270;Campus INF;Jahr;791;MWh;Kälte;E.ON Energy Solutions GmbH;6270;1954;;8750,1
+Im Neuenheimer Feld 270;Campus INF;Jahr;7508;MWh;Wärme;E.ON Energy Solutions GmbH;6270;1954;;8750,1
+Im Neuenheimer Feld 270;Campus INF;Jahr;8;MWh;Gas;Universitätsklinikum Heidelberg;6270;1954;;8750,1
+Im Neuenheimer Feld 282;Campus INF;Jahr;2060;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6282;1985;;10766,11
+Im Neuenheimer Feld 282;Campus INF;Jahr;1132;MWh;Kälte;E.ON Energy Solutions GmbH;6282;1985;;10766,11
+Im Neuenheimer Feld 282;Campus INF;Jahr;2019;MWh;Wärme;E.ON Energy Solutions GmbH;6282;1985;;10766,11
+;;;;;;;;;;
+Im Neuenheimer Feld 293;Campus INF;Jahr;171;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6293;1969;;491,55
+Im Neuenheimer Feld 293;Campus INF;Jahr;209;MWh;Wärme;E.ON Energy Solutions GmbH;6293;1969;;491,55
+Im Neuenheimer Feld 294;Campus INF;Jahr;31;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6294;;;
+Im Neuenheimer Feld 294;Campus INF;Jahr;282;MWh;Wärme;E.ON Energy Solutions GmbH;6294;;;
+Im Neuenheimer Feld 329;Campus INF;Jahr;382;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6329;2011;;3901,44
+Im Neuenheimer Feld 329;Campus INF;Jahr;148;MWh;Kälte;E.ON Energy Solutions GmbH;6329;2011;;3901,44
+Im Neuenheimer Feld 329;Campus INF;Jahr;260;MWh;Wärme;E.ON Energy Solutions GmbH;6329;2011;;3901,44
+Im Neuenheimer Feld 330;Campus INF;Jahr;79;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6330;1969;;6158,64
+;;;;;;;;;;
+Im Neuenheimer Feld 330;Campus INF;Jahr;648;MWh;Wärme;E.ON Energy Solutions GmbH;6330;1969;;6158,64
+Im Neuenheimer Feld 340;Campus INF;Jahr;2564;MWh;Wärme;E.ON Energy Solutions GmbH;6340;1915;;2758
+Im Neuenheimer Feld 350;Campus INF;Jahr;97;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6350;2002;;642,56
+;;;;;;;;;;
+Im Neuenheimer Feld 350;Campus INF;Jahr;188;MWh;Wärme;Universitätsklinikum Heidelberg;6350;2002;;642,56
+Im Neuenheimer Feld 360;Campus INF;Jahr;956;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6360;1960;;3608,08
+Im Neuenheimer Feld 360;Campus INF;Jahr;451;MWh;Kälte;E.ON Energy Solutions GmbH;6360;1960;;3608,08
+Im Neuenheimer Feld 360;Campus INF;Jahr;942;MWh;Wärme;E.ON Energy Solutions GmbH;6360;1960;;3608,08
+Im Neuenheimer Feld 370;Campus INF;Jahr;6;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;6370;;;3682,12
+Im Neuenheimer Feld 501;Campus INF;Jahr;536;MWh;Wärme;E.ON Energy Solutions GmbH;6501;1964;;1190,95
+Im Neuenheimer Feld 507;Campus INF;Jahr;60;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6507;2017;;12901,52
+Im Neuenheimer Feld 6700;Campus INF;Jahr;905;MWh;Wärme;E.ON Energy Solutions GmbH;6700;1966;;6558,29
+Im Neuenheimer Feld 700;Campus INF;Jahr;527;MWh;Strom;Klinik EnergieVersorgungs-Service mbH;6700;1966;;6558,29
+Im Neuenheimer Feld 700;Campus INF;Jahr;12;MWh;Strom;Olympiastuetzpunkt / KES;6700;1966;;6558,29
+;;;;;;;;;;
+Im Neuenheimer Feld 720;Campus INF;Jahr;391;MWh;Wärme;E.ON Energy Solutions GmbH;6720;;;5517,66
+Mönchhofstraße 14;Campus INF;Jahr;284;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;7020;1962;;958,6
+Mönchhofstraße 12;Campus INF;Jahr;97;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;7021;1883;;737,3
+Weberstraße 13;Campus INF;Jahr;7;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;7030;;;229,77
+Berliner Straße 48;Campus INF;Jahr;41;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;7050;1953;;2184,35
+Berliner Straße 48;Campus INF;Jahr;221;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;7050;1953;;2184,35
+Philosophenweg 12;Campus INF;Jahr;408;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;8010;1913;;5870,91
+Philosophenweg 12;Campus INF;Jahr;774;MWh;Gas;Energie Südbayern GmbH;8010;1913;;5870,91
+Albert-Überle-Straße 3-5;Campus INF;Jahr;311;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;8021;1963;;271,36
+Albert-Überle-Straße 2;Campus INF;Jahr;66;MWh;Wärme;Stadtwerke Heidelberg Energie GmbH;8030;1912;;654,01
+Philosophenweg 16;Campus INF;Jahr;155;MWh;Gas;Energie Südbayern GmbH;8050;1913;;1062,86
+Philosophenweg 19;Campus INF;Jahr;46;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;8080;1924;;943,5
+Philosophenweg 19;Campus INF;Jahr;96;MWh;Gas;Energie Südbayern GmbH;8080;1924;;943,5
+Ziegelhäuser Landstraße 17;Campus INF;Jahr;34;MWh;Strom;Stadtwerke Heidelberg Energie GmbH;8140;1733;;1238,7
+Ziegelhäuser Landstraße 17;Campus INF;Jahr;179;MWh;Öl;Haisch Mineralöle;8140;1733;;1238,7
+Notstromaggregat Grabengasse 14-16;Campus Altstadt;Jahr;2;MWh;Öl;Haisch Mineralöle;Notstrom 2100;1978;;
+Notstromaggregat Mathematikon;Campus INF;Jahr;52;MWh;Öl;Haisch Mineralöle;Notstrom 6205;2014;;
+Notstromaggregat INF 227;Campus INF;Jahr;12;MWh;Öl;Haisch Mineralöle;Notstrom 6227;2002;;
+Notstromaggregat Chemische Institute;Campus INF;Jahr;49;MWh;Öl;Haisch Mineralöle;Notstrom 6270;1954;;
+Notstromaggregat ZMBH;Campus INF;Jahr;12;MWh;Öl;Haisch Mineralöle;Notstrom 6329;2011;;
+Notstromaggregat Theoretikum;Campus INF;Jahr;43;MWh;Öl;Haisch Mineralöle;Notstrom 6346;1974;;

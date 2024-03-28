@@ -1,0 +1,36 @@
+﻿Emissionsfaktor;Art
+0,438;Strom
+-0,401;Photovoltaik
+0,228;Fernwärme (E.ON)
+0,175;Fernwärme (Stadtwerke Heidelberg)
+0,202;Erdgas
+0,266;Erdöl
+0,228;Kälte
+0,001589;Brauchwasser
+0,000152;MIV
+0,000201;Elektroantrieb
+0,000027;Fernbus
+0,000085;Regionalverkehr
+0,00005;Fernzüge
+0,000284;Kurzstreckenflug
+0,000284;Mittelstreckenflug
+0,000198;Langstreckenflug
+0,000085;ÖPNV
+0,00005;ÖPFV
+0,00265;Dieselantrieb
+0,00232;Benzinantrieb
+0,00000385;Kopierpapier (Eco Label)
+0,000005;Kopierpapier (Keine Angabe)
+0,00000385;Kopierpapier (Blauer Engel)
+0,00012;Toilettenpapier
+0,000085;ÖPNV (außerhalb VRN Gebiet)
+0,0882;Monitore
+0,1;Handys
+0,15;Tablets
+0,31;Notebooks
+0,3469;Desktop-PCs 
+0,35;Restmüll
+0,001589;Trinkwasser
+0,001589;Wasser
+0,00;Altpapier
+0,00;Biomüll
