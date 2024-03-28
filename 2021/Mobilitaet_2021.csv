@@ -1,0 +1,16 @@
+﻿Kategorie;Art;Pkm;Personenzahl
+Pendeln Beschäftigte;MIV;2497000;4301
+Pendeln Beschäftigte;ÖPNV;2778600;4301
+Pendeln Beschäftigte;ÖPFV;1479192;4301
+Pendeln Studierende;MIV;624000;29187
+Pendeln Studierende;ÖPNV;16326300;29187
+Dienstreisen;MIV;188715;0
+Dienstreisen;ÖPNV;78550;0
+Dienstreisen;Regionalverkehr;17340;0
+Dienstreisen;Fernzüge;968500;0
+Dienstreisen;Kurzstreckenflug;2187;0
+Dienstreisen;Mittelstreckenflug;10734;0
+Dienstreisen;Langstreckenflug;273479;0
+Fuhrpark;Dieselantrieb;18071;0
+Fuhrpark;Benzinantrieb;5460;0
+Fuhrpark;Elektroantrieb;255;0
